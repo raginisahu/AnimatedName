@@ -1,0 +1,14 @@
+com/gamerag/ReactNativeFlipper.java
+ com.gamerag.ReactNativeFlipper
+ com.gamerag.ReactNativeFlipper$1
+ com.gamerag.ReactNativeFlipper$2
+ com.gamerag.ReactNativeFlipper$2$1
+com/gamerag/MainApplication.java
+ com.gamerag.MainApplication
+ com.gamerag.MainApplication$1
+com/gamerag/BuildConfig.java
+ com.gamerag.BuildConfig
+com/gamerag/MainActivity.java
+ com.gamerag.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
